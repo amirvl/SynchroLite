@@ -1,4 +1,4 @@
-# interactive-art-1
+# SynchroLite 
 
 *Creative Description:*
 
